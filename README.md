@@ -1,1 +1,1 @@
-# Rettail-Segmentation
+# Retail-Segmentation
